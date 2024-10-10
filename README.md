@@ -33,12 +33,12 @@ To run this project, you need the following:
 3. Run the script:
 
     ```bash
-    python organize_screenshots.py
+    python main.py
     ```
 
 ## Usage
 
-1. Place the `organize_screenshots.py` script on your desktop or in a directory where you want to organize your screenshots.
+1. Place the `main.py` script on your desktop or in a directory where you want to organize your screenshots.
 2. Run the script using Python. It will:
    - Create a "Screenshots" folder on your desktop (if it doesn't already exist).
    - Move all screenshot files (`.png`, `.jpg`, `.jpeg`, etc.) into the "Screenshots" folder.
