@@ -27,7 +27,7 @@ To run this project, you need the following:
 2. Navigate to the project directory:
 
     ```bash
-    cd desktop-screenshot-organizer
+    cd desktop-organizer
     ```
 
 3. Run the script:
